@@ -16,7 +16,7 @@ def send_email():
     # Email configuration
     sender_email = "qmaarapelo@tip.edu.ph"  # Sender's email address
     receiver_email = "markrapelo@gmail.com"  # Receiver's email address
-    password = "mamakisreal"  # Sender's email password
+    password = ""  # Sender's email password
 
     # Email content
     message = MIMEMultipart()
