@@ -14,8 +14,8 @@ import winsound  # Import winsound for playing alert sound
 def send_email():
     print("Attempting to send email...")  # Add a print statement to indicate the function is called
     # Email configuration
-    sender_email = "qmaarapelo@tip.edu.ph"  # Sender's email address
-    receiver_email = "markrapelo@gmail.com"  # Receiver's email address
+    sender_email = ""  # Sender's email address
+    receiver_email = ""  # Receiver's email address
     password = ""  # Sender's email password
 
     # Email content
